@@ -2,6 +2,7 @@ package com.example.springexerciseproject.web.v1.controllers;
 
 import com.example.springexerciseproject.domain.Actor;
 import com.example.springexerciseproject.services.ActorService;
+import com.example.springexerciseproject.services.impl.ActorServiceImpl;
 import com.example.springexerciseproject.utils.criteria.ActorCriteria;
 import com.example.springexerciseproject.utils.mappers.ActorMapper;
 import com.example.springexerciseproject.web.v1.dtos.actor.ActorDTO;
